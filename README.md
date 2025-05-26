@@ -26,7 +26,6 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hesham-saad-haiba)
-- 💻 [GitHub](https://github.com/heshamsaad98)
 - 📧 Email: hesham.s.haiba@gmail.com
 
 ---
